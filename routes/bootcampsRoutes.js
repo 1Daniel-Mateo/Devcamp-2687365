@@ -151,9 +151,9 @@ router.delete("/:id", async (req, res) => {
     }
   } catch (error) {
     res.status(500).json({
-        success: false,
-        msg: `Error interno de servidor${error.message}`,
-      });
+      success: false,
+      msg: `Error interno de servidor${error.message}`,
+    });
   }
 });
 

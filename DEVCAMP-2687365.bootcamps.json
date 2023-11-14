@@ -1,0 +1,62 @@
+[{
+  "_id": {
+    "$oid": "6553d35c55e5206005efe36e"
+  },
+  "name": "tomato",
+  "phone": 526556156,
+  "address": "sena calle 63",
+  "topics": [
+    "AI"
+  ],
+  "createdAt": "2023-11-14"
+},
+{
+  "_id": {
+    "$oid": "6553d43b55e5206005efe36f"
+  },
+  "name": "ropajes",
+  "phone": {
+    "$numberLong": "5254854156"
+  },
+  "address": "sena calle 63",
+  "topics": [
+    "AI",
+    "Back-end"
+  ],
+  "createdAt": "2023-11-14"
+},
+{
+  "_id": {
+    "$oid": "6553e525587c98b2fbbd0bf1"
+  },
+  "name": "lokis",
+  "phone": 15117587,
+  "address": "sena calle 45",
+  "topics": [
+    "AI",
+    "Backend",
+    "Frontend",
+    "Devops"
+  ],
+  "createdAt": {
+    "$date": "2023-11-14T21:22:45.172Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6553edd8587c98b2fbbd0bf3"
+  },
+  "name": "targaryen",
+  "phone": 15118547,
+  "address": "calle 45 f sur",
+  "topics": [
+    "AI",
+    "Backend",
+    "Devops"
+  ],
+  "createdAt": {
+    "$date": "2023-11-14T21:59:52.474Z"
+  },
+  "__v": 0
+}]
