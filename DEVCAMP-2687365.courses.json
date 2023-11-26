@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "656352aec15f084f2c1f99ef"
+  },
+  "title": "curso naranja",
+  "description": "naranjas",
+  "weeks": 4,
+  "enroll_cost": 1200000,
+  "minimum_skill": [
+    "Beginner",
+    "Intermediate",
+    "Advanced",
+    "Expert"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65635a22a688707300648b17"
+  },
+  "title": "curso cascanuez",
+  "description": "nueces",
+  "weeks": 1,
+  "enroll_cost": 60000,
+  "minimum_skill": [
+    "Beginner",
+    "Intermediate"
+  ],
+  "__v": 0
+}]

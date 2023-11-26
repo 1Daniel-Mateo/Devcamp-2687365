@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "65636067c15f084f2c1f99f4"
+  },
+  "title": "captura la bandera",
+  "text": "este fue uno de los juegos mas entretenidos",
+  "rating": 5,
+  "bootcamp_id": "afefbee212",
+  "user_id": "15155bades1"
+},
+{
+  "_id": {
+    "$oid": "6563629424b82b4f55ef502d"
+  },
+  "title": "cajac",
+  "text": "es una actividad muy educativa",
+  "rating": 10,
+  "bootcamp_id": "fsdafew4114",
+  "user_id": "reewr52264adv",
+  "__v": 0
+}]
